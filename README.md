@@ -1,1 +1,3 @@
 # text_parser_from_image_to_speech
+
+python text_parser_from_image_to_speech.py
