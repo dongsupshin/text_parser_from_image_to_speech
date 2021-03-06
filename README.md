@@ -1,0 +1,1 @@
+# text_parser_from_image_to_speech
